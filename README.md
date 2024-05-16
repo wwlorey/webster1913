@@ -14,3 +14,10 @@ Download [`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/
 
 > A book where you can enter “sport” and end up with “a diversion of the field” — this is in fact the opposite of what I’d known a dictionary to be. This is a book that transmutes plain words into language that’s finer and more vivid and sometimes more rare. No wonder McPhee wrote with it by his side. No wonder he looked up words he knew, versus words he didn’t, in a ratio of “at least ninety-nine to one.”
 
+## How-to
+
+[`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/webster1913.slob) was created from the macOS dictionary supplied in https://github.com/cmod/websters-1913, using `pyglossary`:
+
+```sh
+pyglossary websters-1913.dictionary webster1913.slob --read-format=AppleDictBin --write-format=Aard2Slob
+```
