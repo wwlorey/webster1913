@@ -1,6 +1,6 @@
 # Webster's 1913 Dictionary in Slob Format
 
-This brings the slick, contemporary CSS styling of [Webster's 1913 Dictionary for macOS](https://github.com/cmod/websters-1913) to the slob format, for use with apps such as [Aard2](https://github.com/itkach/aard2-android).
+This brings the slick, contemporary CSS styling of [Webster's 1913 Dictionary for macOS](https://github.com/cmod/websters-1913) to the slob format, for use with dictionary apps such as [Aard2](https://github.com/itkach/aard2-android).
 
 ## Usage Instructions
 
