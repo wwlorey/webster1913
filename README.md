@@ -16,8 +16,5 @@ Download [`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/
 
 ## How-to
 
-[`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/webster1913.slob) was created from the macOS dictionary supplied in https://github.com/cmod/websters-1913, using `pyglossary`:
+[`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/webster1913.slob) was created from the macOS dictionary supplied in https://github.com/cmod/websters-1913 using `pyglossary`. Before the conversion, however, `Info.plist` in the source dictionary was edited so that once converted, the dictionary's display name in the app was appropriate (the default was something like `com.apple.Webster.Webster`).
 
-```sh
-pyglossary websters-1913.dictionary webster1913.slob --read-format=AppleDictBin --write-format=Aard2Slob
-```
