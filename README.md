@@ -6,7 +6,7 @@ This brings the slick, contemporary CSS styling of [Webster's 1913 Dictionary fo
 
 Download [`webster1913.slob`](https://github.com/wwlorey/webster1913/raw/master/webster1913.slob) and follow the instructions of your dictionary app of choice to use it. (For Aard2, see [these brief instructions](https://github.com/itkach/aard2-android?tab=readme-ov-file#dictionary-management).)
 
-![Aard2 screenshot of results for "Monkey"](https://github.com/wwlorey/webster1913/raw/main/screenshots/example.png)
+![Aard2 screenshot of results for "Monkey"](https://github.com/wwlorey/webster1913/raw/master/screenshots/example.png)
 
 ## Background
 
